@@ -8,7 +8,11 @@ public class Gittest1 {
 		// TODO Auto-generated method stub
 		System.out.println("Da");
 		System.out.println("Dada");
-		System.out.println("Da");
+		
+		for (int i = 0; i<11; i++){
+			System.out.println("Da");
+			
+		}
 	}
 
 }
